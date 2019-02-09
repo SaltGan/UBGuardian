@@ -23,7 +23,7 @@ Forked to provide:
 ## Installing
 ```sh
 git clone https://github.com/zephyrrus/UBGuardian.git
-cd ScrapyKeeper
+cd UBGuardian/ScrapyKeeper
 pip install .
 ```
 
